@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forside_Index on My New Hugo Site</title>
+    <link>http://hugotestsite.theherman.dk/</link>
+    <description>Recent content in forside_Index on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jan 2018 11:09:07 +0100</lastBuildDate>
+    
+	<atom:link href="http://hugotestsite.theherman.dk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Case4</title>
+      <link>http://hugotestsite.theherman.dk/portfolio/case4/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:29 +0100</pubDate>
+      
+      <guid>http://hugotestsite.theherman.dk/portfolio/case4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case3</title>
+      <link>http://hugotestsite.theherman.dk/portfolio/case3/</link>
+      <pubDate>Tue, 30 Jan 2018 08:59:12 +0100</pubDate>
+      
+      <guid>http://hugotestsite.theherman.dk/portfolio/case3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case2</title>
+      <link>http://hugotestsite.theherman.dk/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 08:58:59 +0100</pubDate>
+      
+      <guid>http://hugotestsite.theherman.dk/portfolio/case2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case1</title>
+      <link>http://hugotestsite.theherman.dk/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 08:58:43 +0100</pubDate>
+      
+      <guid>http://hugotestsite.theherman.dk/portfolio/case1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://hugotestsite.theherman.dk/about/</link>
+      <pubDate>Mon, 29 Jan 2018 11:29:45 +0100</pubDate>
+      
+      <guid>http://hugotestsite.theherman.dk/about/</guid>
+      <description> Søren Hermansen  26 år Bor på Vesterbro  Interesser  Fodbold Fodbold Fodbold  Ferie </description>
+    </item>
+    
+  </channel>
+</rss>

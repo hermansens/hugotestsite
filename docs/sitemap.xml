@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/portfolio/</loc>
+    <lastmod>2018-01-30T09:15:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/portfolio/case4/</loc>
+    <lastmod>2018-01-30T08:59:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/portfolio/case3/</loc>
+    <lastmod>2018-01-30T08:59:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/portfolio/case2/</loc>
+    <lastmod>2018-01-30T08:58:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/portfolio/case1/</loc>
+    <lastmod>2018-01-30T08:58:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/about/</loc>
+    <lastmod>2018-01-29T11:29:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/om/</loc>
+    <lastmod>2018-01-29T11:27:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/</loc>
+    <lastmod>2018-01-29T11:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugotestsite.theherman.dk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
