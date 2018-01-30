@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://hugotestsite.theherman.dk/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishDir = "docs"
 
 [params]
 extracssfiles          = [ "/css/override.css" ]

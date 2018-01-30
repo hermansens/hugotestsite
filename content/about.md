@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-01-29T11:29:45+01:00
-draft: true
+draft: false
 ---
 # Søren Hermansen
 

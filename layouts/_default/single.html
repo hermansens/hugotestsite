@@ -4,7 +4,7 @@
         <div class="content">
             {{ partial "page-heading.html" . }}
             <div class="markdown">
-                <span>Humør: {{ .Params.mood}}</span>
+                <span class="mood">Humør: {{ .Params.mood}}</span>
                 <img src="{{ .Params.caseimage }}"> {{ .Content }}
             </div>
         </div>
